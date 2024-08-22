@@ -1,0 +1,30 @@
+{
+  "name": "machine_test_digialpha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+  "start": "node server.js",
+  "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aniket7743/machine_test_digialpha.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aniket7743/machine_test_digialpha/issues"
+  },
+  "homepage": "https://github.com/aniket7743/machine_test_digialpha#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongo": "^0.1.0",
+    "mongoose": "^8.5.3",
+    "node": "^20.17.0"
+  }
+}
